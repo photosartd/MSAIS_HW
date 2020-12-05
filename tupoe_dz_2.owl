@@ -12,16 +12,106 @@
     <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
     <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
     <Declaration>
-        <Class IRI="#Engineering"/>
+        <Class IRI="#Probability"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Engineering_Optimization"/>
     </Declaration>
     <Declaration>
         <Class IRI="#Computer_science"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Mathematical_chemistry"/>
+        <Class IRI="#Machine_Learning"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Computational_Comlexity_Theory"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Symmetric_/_Asymmetric"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Control_theory"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Neurosurgery_Clinical_Data_Processing"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Algebra"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Computability_Theory"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Mathematical_physics"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Logistic_regression"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Decision_theory"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Biomathematics"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Infinitely_long"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#An_Algorithmic_Form_for_Boundary_Tracing_in_Digital_Images"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Combinatorics"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Linear_Optimization"/>
     </Declaration>
     <Declaration>
         <Class IRI="#Mathematical_finance"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Fourier_Analysis_in_Regular_Biological_Structures"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Simulations"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Cooperative_/_Non-Cooperative"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Linear_Regression"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Cryptography"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Game_Theory"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Differential"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Economics"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Zero-sum_/_Non-zero-sum"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Group_/_Ring_Theory"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Engineering_Statistics"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Engineering"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Simultaneous_/_Sequential"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Mathematical_chemistry"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Algorithms"/>
     </Declaration>
     <Declaration>
         <Class IRI="#Statistics"/>
@@ -30,20 +120,175 @@
         <Class IRI="#Numerical_Analysis"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Game_Theory"/>
+        <Class IRI="#Numerical"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Cryptography"/>
+        <Class IRI="#Fourier_Transfrom_in_Image_Analysis"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Mathematical_physics"/>
+        <Class IRI="#Theoretical_physics"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Economics"/>
+        <Class IRI="#Combinatorial"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#Non-numerical"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Computational_Models"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Nonlinear_programming"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Ergodic_Theory_and_Thermodynamic_Formalism"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#A_Stochastic_Model_for_Protein_Aggregation"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Mathematical_Aspects_of_Quantum_Physics"/>
+    </Declaration>
+    <SubClassOf>
+        <Class IRI="#A_Stochastic_Model_for_Protein_Aggregation"/>
         <Class IRI="#Biomathematics"/>
-    </Declaration>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Algebra"/>
+        <Class IRI="#Statistics"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Algorithms"/>
+        <Class IRI="#Computer_science"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#An_Algorithmic_Form_for_Boundary_Tracing_in_Digital_Images"/>
+        <Class IRI="#Biomathematics"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Combinatorial"/>
+        <Class IRI="#Game_Theory"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Combinatorics"/>
+        <Class IRI="#Statistics"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Computability_Theory"/>
+        <Class IRI="#Computer_science"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Computational_Comlexity_Theory"/>
+        <Class IRI="#Computer_science"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Computational_Models"/>
+        <Class IRI="#Computer_science"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Control_theory"/>
+        <Class IRI="#Engineering"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Decision_theory"/>
+        <Class IRI="#Statistics"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Differential"/>
+        <Class IRI="#Game_Theory"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Engineering_Optimization"/>
+        <Class IRI="#Engineering"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Engineering_Statistics"/>
+        <Class IRI="#Engineering"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Ergodic_Theory_and_Thermodynamic_Formalism"/>
+        <Class IRI="#Theoretical_physics"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Fourier_Analysis_in_Regular_Biological_Structures"/>
+        <Class IRI="#Biomathematics"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Fourier_Transfrom_in_Image_Analysis"/>
+        <Class IRI="#Biomathematics"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Infinitely_long"/>
+        <Class IRI="#Game_Theory"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Linear_Optimization"/>
+        <Class IRI="#Economics"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Linear_Regression"/>
+        <Class IRI="#Machine_Learning"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Logistic_regression"/>
+        <Class IRI="#Machine_Learning"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Machine_Learning"/>
+        <Class IRI="#Computer_science"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Mathematical_Aspects_of_Quantum_Physics"/>
+        <Class IRI="#Theoretical_physics"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Neurosurgery_Clinical_Data_Processing"/>
+        <Class IRI="#Biomathematics"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Non-numerical"/>
+        <Class IRI="#Algorithms"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Nonlinear_programming"/>
+        <Class IRI="#Economics"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Numerical"/>
+        <Class IRI="#Algorithms"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Probability"/>
+        <Class IRI="#Statistics"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Simulations"/>
+        <Class IRI="#Computer_science"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Theoretical_physics"/>
+        <Class IRI="#Mathematical_physics"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Cooperative_/_Non-Cooperative"/>
+        <Class IRI="#Game_Theory"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Group_/_Ring_Theory"/>
+        <Class IRI="#Cryptography"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Simultaneous_/_Sequential"/>
+        <Class IRI="#Game_Theory"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Symmetric_/_Asymmetric"/>
+        <Class IRI="#Game_Theory"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Zero-sum_/_Non-zero-sum"/>
+        <Class IRI="#Game_Theory"/>
+    </SubClassOf>
 </Ontology>
 
 
