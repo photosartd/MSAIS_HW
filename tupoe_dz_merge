@@ -1,0 +1,678 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz_merge"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz_merge">
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Mathematical_finance"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#Equations"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#Geometry"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#17th_century_A.D."/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz#Number_Systems"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Computational_Models"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Theoretical_physics"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz#Differential_Geometry"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#A_Stochastic_Model_for_Protein_Aggregation"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz#Complex_Numbers"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Simultaneous_/_Sequential"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Game_Theory"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#20th_centry_A.C."/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz#Fractal_Geometry"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz#Changes"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Algorithms"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz#Trigonometry"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Fourier_Transfrom_in_Image_Analysis"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Biomathematics"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Computability_Theory"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#Chaos_theory"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#Matrices"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Nonlinear_programming"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz#Combinatorics"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Differential"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Economics"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#Vectors"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#19th_century_A.D."/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Simulations"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#Rational_numbers"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz#Integers"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#Trigonometry"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Engineering_Optimization"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz#Geometry"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Non-numerical"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Cooperative_/_Non-Cooperative"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#Combinations"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#Complex_numbers"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Neurosurgery_Clinical_Data_Processing"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Numerical_Analysis"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#Numbers_Theory"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#Over_1000_years_B.C."/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz#Group_Theory"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz#Order_Theory"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Symmetric_/_Asymmetric"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz#Number_Theory"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Decision_theory"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Infinitely_long"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz#Spaces"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#Vector_calculus"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#Natural_numbers"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#Integers"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Linear_Regression"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Logistic_regression"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Cryptography"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz#Measure_Theory"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#Between_1000_B.C._and_A.C."/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Zero-sum_/_Non-zero-sum"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Computer_science"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Combinatorial"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#Differential_Geometry"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz#Dynamical_Systems"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Fourier_Analysis_in_Regular_Biological_Structures"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Machine_Learning"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#Topology"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#18th_century_A.C."/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#9th_century_A.D."/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#Complex_analysis"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz#Real_Numbers"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#Calculus"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Numerical"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz#Structures"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Combinatorics"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Group_/_Ring_Theory"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#Graph_theory"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Engineering"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Mathematical_Aspects_of_Quantum_Physics"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz#Rational_Numbers"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#An_Algorithmic_Form_for_Boundary_Tracing_in_Digital_Images"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Engineering_Statistics"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Mathematical_chemistry"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#12th_century_A.C."/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Algebra"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz#Algebra"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Control_theory"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#Dynamical_systems"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Ergodic_Theory_and_Thermodynamic_Formalism"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz#Linear_Algebra"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#Group_theory"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz#Vector_Calculus"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz#Chaos_Theory"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Computational_Comlexity_Theory"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz#Calculus"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Probability"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#Fractal_Theory"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Statistics"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#Set_theory"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Linear_Optimization"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#Real_numbers"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#Measure_theory"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Mathematical_physics"/>
+    </Declaration>
+    <EquivalentClasses>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz#Algebra"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Algebra"/>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz#Calculus"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#Calculus"/>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz#Combinatorics"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Combinatorics"/>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz#Fractal_Geometry"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#Fractal_Theory"/>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz#Geometry"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#Geometry"/>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz#Group_Theory"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#Set_theory"/>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz#Integers"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#Integers"/>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz#Real_Numbers"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#Real_numbers"/>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz#Trigonometry"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#Trigonometry"/>
+    </EquivalentClasses>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz#Algebra"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz#Structures"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz#Calculus"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz#Changes"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz#Chaos_Theory"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz#Changes"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz#Combinatorics"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz#Structures"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz#Complex_Numbers"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz#Number_Systems"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz#Differential_Geometry"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz#Geometry"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz#Dynamical_Systems"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz#Changes"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz#Fractal_Geometry"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz#Geometry"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz#Geometry"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz#Spaces"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz#Group_Theory"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz#Structures"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz#Integers"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz#Number_Systems"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz#Linear_Algebra"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz#Algebra"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz#Measure_Theory"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz#Spaces"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz#Number_Theory"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz#Structures"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz#Order_Theory"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz#Structures"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz#Rational_Numbers"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz#Number_Systems"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz#Real_Numbers"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz#Number_Systems"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz#Trigonometry"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz#Geometry"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz#Vector_Calculus"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz#Calculus"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#A_Stochastic_Model_for_Protein_Aggregation"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Biomathematics"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Algebra"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Statistics"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Algorithms"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Computer_science"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#An_Algorithmic_Form_for_Boundary_Tracing_in_Digital_Images"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Biomathematics"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Combinatorial"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Game_Theory"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Combinatorics"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Statistics"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Computability_Theory"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Computer_science"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Computational_Comlexity_Theory"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Computer_science"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Computational_Models"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Computer_science"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Control_theory"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Engineering"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Decision_theory"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Statistics"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Differential"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Game_Theory"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Engineering_Optimization"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Engineering"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Engineering_Statistics"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Engineering"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Ergodic_Theory_and_Thermodynamic_Formalism"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Theoretical_physics"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Fourier_Analysis_in_Regular_Biological_Structures"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Biomathematics"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Fourier_Transfrom_in_Image_Analysis"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Biomathematics"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Infinitely_long"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Game_Theory"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Linear_Optimization"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Economics"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Linear_Regression"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Machine_Learning"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Logistic_regression"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Machine_Learning"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Machine_Learning"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Computer_science"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Mathematical_Aspects_of_Quantum_Physics"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Theoretical_physics"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Neurosurgery_Clinical_Data_Processing"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Biomathematics"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Non-numerical"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Algorithms"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Nonlinear_programming"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Economics"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Numerical"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Algorithms"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Probability"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Statistics"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Probability"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Theoretical_physics"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Simulations"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Computer_science"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Statistics"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Cryptography"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Theoretical_physics"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Mathematical_physics"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Cooperative_/_Non-Cooperative"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Game_Theory"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Group_/_Ring_Theory"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Cryptography"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Simultaneous_/_Sequential"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Game_Theory"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Symmetric_/_Asymmetric"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Game_Theory"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Zero-sum_/_Non-zero-sum"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2#Game_Theory"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#Calculus"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#Between_1000_B.C._and_A.C."/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#Chaos_theory"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#19th_century_A.D."/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#Combinations"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#12th_century_A.C."/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#Complex_analysis"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#18th_century_A.C."/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#Complex_numbers"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#18th_century_A.C."/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#Differential_Geometry"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#18th_century_A.C."/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#Dynamical_systems"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#19th_century_A.D."/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#Equations"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#9th_century_A.D."/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#Fractal_Theory"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#17th_century_A.D."/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#Geometry"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#Over_1000_years_B.C."/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#Graph_theory"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#18th_century_A.C."/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#Group_theory"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#19th_century_A.D."/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#Integers"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#Between_1000_B.C._and_A.C."/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#Matrices"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#19th_century_A.D."/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#Measure_theory"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#19th_century_A.D."/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#Natural_numbers"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#Over_1000_years_B.C."/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#Numbers_Theory"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#Between_1000_B.C._and_A.C."/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#Rational_numbers"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#Between_1000_B.C._and_A.C."/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#Real_numbers"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#17th_century_A.D."/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#Set_theory"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#19th_century_A.D."/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#Topology"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#20th_centry_A.C."/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#Trigonometry"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#Between_1000_B.C._and_A.C."/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#Vector_calculus"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#20th_centry_A.C."/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#Vectors"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3#19th_century_A.D."/>
+    </SubClassOf>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 4.2.8.20170104-2310) https://github.com/owlcs/owlapi -->
+

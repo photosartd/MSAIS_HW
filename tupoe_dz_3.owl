@@ -1,207 +1,208 @@
 <?xml version="1.0"?>
 <Ontology xmlns="http://www.w3.org/2002/07/owl#"
-     xml:base="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12"
+     xml:base="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3"
      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:xml="http://www.w3.org/XML/1998/namespace"
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-     ontologyIRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12">
+     ontologyIRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz3">
+    <Prefix name="" IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12"/>
     <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
     <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
     <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
     <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
     <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
     <Declaration>
-        <Class IRI="#Group_theory"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12#Group_theory"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Over_1000_years_B.C."/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12#Over_1000_years_B.C."/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Between_1000_B.C._and_A.C."/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12#Between_1000_B.C._and_A.C."/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Complex_numbers"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12#Complex_numbers"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Dynamical_systems"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12#Dynamical_systems"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Calculus"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12#Complex_analysis"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Complex_analysis"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12#Calculus"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Combinations"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12#Combinations"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Differential_Geometry"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12#Matrices"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Matrices"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12#Differential_Geometry"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Real_numbers"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12#Real_numbers"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#18th_century_A.C."/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12#18th_century_A.C."/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Fractal_Theory"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12#Fractal_Theory"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Vector_calculus"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12#Trigonometry"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Trigonometry"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12#Vector_calculus"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Equations"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12#Equations"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Chaos_theory"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12#Chaos_theory"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#12th_century_A.C."/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12#12th_century_A.C."/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Topology"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12#Topology"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Integers"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12#Integers"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Numbers_Theory"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12#Numbers_Theory"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Natural_numbers"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12#Natural_numbers"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Set_theory"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12#Set_theory"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#20th_centry_A.C."/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12#20th_centry_A.C."/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Geometry"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12#Geometry"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#17th_century_A.D."/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12#17th_century_A.D."/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Measure_theory"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12#Measure_theory"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Vectors"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12#Vectors"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#19th_century_A.D."/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12#19th_century_A.D."/>
     </Declaration>
     <Declaration>
-        <Class IRI="#9th_century_A.D."/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12#9th_century_A.D."/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Rational_numbers"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12#Rational_numbers"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Graph_theory"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12#Graph_theory"/>
     </Declaration>
     <SubClassOf>
-        <Class IRI="#Calculus"/>
-        <Class IRI="#Between_1000_B.C._and_A.C."/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12#Calculus"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12#Between_1000_B.C._and_A.C."/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#Chaos_theory"/>
-        <Class IRI="#19th_century_A.D."/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12#Chaos_theory"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12#19th_century_A.D."/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#Combinations"/>
-        <Class IRI="#12th_century_A.C."/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12#Combinations"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12#12th_century_A.C."/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#Complex_analysis"/>
-        <Class IRI="#18th_century_A.C."/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12#Complex_analysis"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12#18th_century_A.C."/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#Complex_numbers"/>
-        <Class IRI="#18th_century_A.C."/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12#Complex_numbers"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12#18th_century_A.C."/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#Differential_Geometry"/>
-        <Class IRI="#18th_century_A.C."/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12#Differential_Geometry"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12#18th_century_A.C."/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#Dynamical_systems"/>
-        <Class IRI="#19th_century_A.D."/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12#Dynamical_systems"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12#19th_century_A.D."/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#Equations"/>
-        <Class IRI="#9th_century_A.D."/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12#Equations"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12#9th_century_A.D."/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#Fractal_Theory"/>
-        <Class IRI="#17th_century_A.D."/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12#Fractal_Theory"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12#17th_century_A.D."/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#Geometry"/>
-        <Class IRI="#Over_1000_years_B.C."/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12#Geometry"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12#Over_1000_years_B.C."/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#Graph_theory"/>
-        <Class IRI="#18th_century_A.C."/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12#Graph_theory"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12#18th_century_A.C."/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#Group_theory"/>
-        <Class IRI="#19th_century_A.D."/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12#Group_theory"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12#19th_century_A.D."/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#Integers"/>
-        <Class IRI="#Between_1000_B.C._and_A.C."/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12#Integers"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12#Between_1000_B.C._and_A.C."/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#Matrices"/>
-        <Class IRI="#19th_century_A.D."/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12#Matrices"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12#19th_century_A.D."/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#Measure_theory"/>
-        <Class IRI="#19th_century_A.D."/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12#Measure_theory"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12#19th_century_A.D."/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#Natural_numbers"/>
-        <Class IRI="#Over_1000_years_B.C."/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12#Natural_numbers"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12#Over_1000_years_B.C."/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#Numbers_Theory"/>
-        <Class IRI="#Between_1000_B.C._and_A.C."/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12#Numbers_Theory"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12#Between_1000_B.C._and_A.C."/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#Rational_numbers"/>
-        <Class IRI="#Between_1000_B.C._and_A.C."/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12#Rational_numbers"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12#Between_1000_B.C._and_A.C."/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#Real_numbers"/>
-        <Class IRI="#17th_century_A.D."/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12#Real_numbers"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12#17th_century_A.D."/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#Set_theory"/>
-        <Class IRI="#19th_century_A.D."/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12#Set_theory"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12#19th_century_A.D."/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#Topology"/>
-        <Class IRI="#20th_centry_A.C."/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12#Topology"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12#20th_centry_A.C."/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#Trigonometry"/>
-        <Class IRI="#Between_1000_B.C._and_A.C."/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12#Trigonometry"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12#Between_1000_B.C._and_A.C."/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#Vector_calculus"/>
-        <Class IRI="#20th_centry_A.C."/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12#Vector_calculus"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12#20th_centry_A.C."/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#Vectors"/>
-        <Class IRI="#19th_century_A.D."/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12#Vectors"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12#19th_century_A.D."/>
     </SubClassOf>
 </Ontology>
 
