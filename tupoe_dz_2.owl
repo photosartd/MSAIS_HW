@@ -1,301 +1,302 @@
 <?xml version="1.0"?>
 <Ontology xmlns="http://www.w3.org/2002/07/owl#"
-     xml:base="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11"
+     xml:base="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2"
      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:xml="http://www.w3.org/XML/1998/namespace"
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-     ontologyIRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11">
+     ontologyIRI="http://www.semanticweb.org/aleks/ontologies/2020/11/tupoe_dz2">
+    <Prefix name="" IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11"/>
     <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
     <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
     <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
     <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
     <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
     <Declaration>
-        <Class IRI="#Probability"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Probability"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Engineering_Optimization"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Engineering_Optimization"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Computer_science"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Machine_Learning"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Machine_Learning"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Computer_science"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Computational_Comlexity_Theory"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Computational_Comlexity_Theory"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Symmetric_/_Asymmetric"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Symmetric_/_Asymmetric"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Control_theory"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Neurosurgery_Clinical_Data_Processing"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Neurosurgery_Clinical_Data_Processing"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Control_theory"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Algebra"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Algebra"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Computability_Theory"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Mathematical_physics"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Mathematical_physics"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Computability_Theory"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Logistic_regression"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Logistic_regression"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Decision_theory"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Decision_theory"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Biomathematics"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Biomathematics"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Infinitely_long"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Infinitely_long"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#An_Algorithmic_Form_for_Boundary_Tracing_in_Digital_Images"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#An_Algorithmic_Form_for_Boundary_Tracing_in_Digital_Images"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Combinatorics"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Combinatorics"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Linear_Optimization"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Linear_Optimization"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Mathematical_finance"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Mathematical_finance"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Fourier_Analysis_in_Regular_Biological_Structures"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Fourier_Analysis_in_Regular_Biological_Structures"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Simulations"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Simulations"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Cooperative_/_Non-Cooperative"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Cooperative_/_Non-Cooperative"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Linear_Regression"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Linear_Regression"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Cryptography"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Game_Theory"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Game_Theory"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Cryptography"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Differential"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Differential"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Economics"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Economics"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Zero-sum_/_Non-zero-sum"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Zero-sum_/_Non-zero-sum"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Group_/_Ring_Theory"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Group_/_Ring_Theory"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Engineering_Statistics"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Engineering"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Engineering"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Engineering_Statistics"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Simultaneous_/_Sequential"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Simultaneous_/_Sequential"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Mathematical_chemistry"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Mathematical_chemistry"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Algorithms"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Algorithms"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Statistics"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Statistics"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Numerical_Analysis"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Numerical_Analysis"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Numerical"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Numerical"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Fourier_Transfrom_in_Image_Analysis"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Fourier_Transfrom_in_Image_Analysis"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Theoretical_physics"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Theoretical_physics"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Combinatorial"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Combinatorial"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Non-numerical"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Non-numerical"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Computational_Models"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Computational_Models"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Nonlinear_programming"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Nonlinear_programming"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Ergodic_Theory_and_Thermodynamic_Formalism"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Ergodic_Theory_and_Thermodynamic_Formalism"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#A_Stochastic_Model_for_Protein_Aggregation"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#A_Stochastic_Model_for_Protein_Aggregation"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Mathematical_Aspects_of_Quantum_Physics"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Mathematical_Aspects_of_Quantum_Physics"/>
     </Declaration>
     <SubClassOf>
-        <Class IRI="#A_Stochastic_Model_for_Protein_Aggregation"/>
-        <Class IRI="#Biomathematics"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#A_Stochastic_Model_for_Protein_Aggregation"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Biomathematics"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#Algebra"/>
-        <Class IRI="#Statistics"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Algebra"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Statistics"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#Algorithms"/>
-        <Class IRI="#Computer_science"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Algorithms"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Computer_science"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#An_Algorithmic_Form_for_Boundary_Tracing_in_Digital_Images"/>
-        <Class IRI="#Biomathematics"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#An_Algorithmic_Form_for_Boundary_Tracing_in_Digital_Images"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Biomathematics"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#Combinatorial"/>
-        <Class IRI="#Game_Theory"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Combinatorial"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Game_Theory"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#Combinatorics"/>
-        <Class IRI="#Statistics"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Combinatorics"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Statistics"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#Computability_Theory"/>
-        <Class IRI="#Computer_science"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Computability_Theory"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Computer_science"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#Computational_Comlexity_Theory"/>
-        <Class IRI="#Computer_science"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Computational_Comlexity_Theory"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Computer_science"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#Computational_Models"/>
-        <Class IRI="#Computer_science"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Computational_Models"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Computer_science"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#Control_theory"/>
-        <Class IRI="#Engineering"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Control_theory"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Engineering"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#Decision_theory"/>
-        <Class IRI="#Statistics"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Decision_theory"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Statistics"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#Differential"/>
-        <Class IRI="#Game_Theory"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Differential"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Game_Theory"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#Engineering_Optimization"/>
-        <Class IRI="#Engineering"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Engineering_Optimization"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Engineering"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#Engineering_Statistics"/>
-        <Class IRI="#Engineering"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Engineering_Statistics"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Engineering"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#Ergodic_Theory_and_Thermodynamic_Formalism"/>
-        <Class IRI="#Theoretical_physics"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Ergodic_Theory_and_Thermodynamic_Formalism"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Theoretical_physics"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#Fourier_Analysis_in_Regular_Biological_Structures"/>
-        <Class IRI="#Biomathematics"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Fourier_Analysis_in_Regular_Biological_Structures"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Biomathematics"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#Fourier_Transfrom_in_Image_Analysis"/>
-        <Class IRI="#Biomathematics"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Fourier_Transfrom_in_Image_Analysis"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Biomathematics"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#Infinitely_long"/>
-        <Class IRI="#Game_Theory"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Infinitely_long"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Game_Theory"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#Linear_Optimization"/>
-        <Class IRI="#Economics"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Linear_Optimization"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Economics"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#Linear_Regression"/>
-        <Class IRI="#Machine_Learning"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Linear_Regression"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Machine_Learning"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#Logistic_regression"/>
-        <Class IRI="#Machine_Learning"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Logistic_regression"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Machine_Learning"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#Machine_Learning"/>
-        <Class IRI="#Computer_science"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Machine_Learning"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Computer_science"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#Mathematical_Aspects_of_Quantum_Physics"/>
-        <Class IRI="#Theoretical_physics"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Mathematical_Aspects_of_Quantum_Physics"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Theoretical_physics"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#Neurosurgery_Clinical_Data_Processing"/>
-        <Class IRI="#Biomathematics"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Neurosurgery_Clinical_Data_Processing"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Biomathematics"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#Non-numerical"/>
-        <Class IRI="#Algorithms"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Non-numerical"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Algorithms"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#Nonlinear_programming"/>
-        <Class IRI="#Economics"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Nonlinear_programming"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Economics"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#Numerical"/>
-        <Class IRI="#Algorithms"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Numerical"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Algorithms"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#Probability"/>
-        <Class IRI="#Statistics"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Probability"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Statistics"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#Probability"/>
-        <Class IRI="#Theoretical_physics"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Probability"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Theoretical_physics"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#Simulations"/>
-        <Class IRI="#Computer_science"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Simulations"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Computer_science"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#Statistics"/>
-        <Class IRI="#Cryptography"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Statistics"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Cryptography"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#Theoretical_physics"/>
-        <Class IRI="#Mathematical_physics"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Theoretical_physics"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Mathematical_physics"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#Cooperative_/_Non-Cooperative"/>
-        <Class IRI="#Game_Theory"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Cooperative_/_Non-Cooperative"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Game_Theory"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#Group_/_Ring_Theory"/>
-        <Class IRI="#Cryptography"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Group_/_Ring_Theory"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Cryptography"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#Simultaneous_/_Sequential"/>
-        <Class IRI="#Game_Theory"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Simultaneous_/_Sequential"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Game_Theory"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#Symmetric_/_Asymmetric"/>
-        <Class IRI="#Game_Theory"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Symmetric_/_Asymmetric"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Game_Theory"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#Zero-sum_/_Non-zero-sum"/>
-        <Class IRI="#Game_Theory"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Zero-sum_/_Non-zero-sum"/>
+        <Class IRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-11#Game_Theory"/>
     </SubClassOf>
 </Ontology>
 
