@@ -1,0 +1,211 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="http://www.semanticweb.org/aleks/ontologies/2020/11/untitled-ontology-12">
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Declaration>
+        <Class IRI="#Group_theory"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Over_1000_years_B.C."/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Between_1000_B.C._and_A.C."/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Complex_numbers"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Dynamical_systems"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Calculus"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Complex_analysis"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Combinations"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Differential_Geometry"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Matrices"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Real_numbers"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#18th_century_A.C."/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Fractal_Theory"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Vector_calculus"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Trigonometry"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Equations"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Chaos_theory"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#12th_century_A.C."/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Topology"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Integers"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Numbers_Theory"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Natural_numbers"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Set_theory"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#20th_centry_A.C."/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Geometry"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#17th_century_A.D."/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Measure_theory"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Vectors"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#19th_century_A.D."/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#9th_century_A.D."/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Rational_numbers"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Graph_theory"/>
+    </Declaration>
+    <SubClassOf>
+        <Class IRI="#Calculus"/>
+        <Class IRI="#Between_1000_B.C._and_A.C."/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Chaos_theory"/>
+        <Class IRI="#19th_century_A.D."/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Combinations"/>
+        <Class IRI="#12th_century_A.C."/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Complex_analysis"/>
+        <Class IRI="#18th_century_A.C."/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Complex_numbers"/>
+        <Class IRI="#18th_century_A.C."/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Differential_Geometry"/>
+        <Class IRI="#18th_century_A.C."/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Dynamical_systems"/>
+        <Class IRI="#19th_century_A.D."/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Equations"/>
+        <Class IRI="#9th_century_A.D."/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Fractal_Theory"/>
+        <Class IRI="#17th_century_A.D."/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Geometry"/>
+        <Class IRI="#Over_1000_years_B.C."/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Graph_theory"/>
+        <Class IRI="#18th_century_A.C."/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Group_theory"/>
+        <Class IRI="#19th_century_A.D."/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Integers"/>
+        <Class IRI="#Between_1000_B.C._and_A.C."/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Matrices"/>
+        <Class IRI="#19th_century_A.D."/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Measure_theory"/>
+        <Class IRI="#19th_century_A.D."/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Natural_numbers"/>
+        <Class IRI="#Over_1000_years_B.C."/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Numbers_Theory"/>
+        <Class IRI="#Between_1000_B.C._and_A.C."/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Rational_numbers"/>
+        <Class IRI="#Between_1000_B.C._and_A.C."/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Real_numbers"/>
+        <Class IRI="#17th_century_A.D."/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Set_theory"/>
+        <Class IRI="#19th_century_A.D."/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Topology"/>
+        <Class IRI="#20th_centry_A.C."/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Trigonometry"/>
+        <Class IRI="#Between_1000_B.C._and_A.C."/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Vector_calculus"/>
+        <Class IRI="#20th_centry_A.C."/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Vectors"/>
+        <Class IRI="#19th_century_A.D."/>
+    </SubClassOf>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 4.2.8.20170104-2310) https://github.com/owlcs/owlapi -->
+
