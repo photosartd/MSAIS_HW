@@ -262,8 +262,16 @@
         <Class IRI="#Statistics"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#Probability"/>
+        <Class IRI="#Theoretical_physics"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#Simulations"/>
         <Class IRI="#Computer_science"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Statistics"/>
+        <Class IRI="#Cryptography"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#Theoretical_physics"/>
